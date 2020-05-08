@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="namaAmalanArray">
+        <item>Berdoa Bangun Tidur</item>
+        <item>Tahajud</item>
+        <item>Witir</item>
+        <item>Sholat Fajar</item>
+        <item>Sholat Subuh</item>
+        <item>Dzikir Pagi</item>
+        <item>Qiroah Quran</item>
+        <item>Sholat Dhuha</item>
+        <item>Sedekah</item>
+        <item>Sholat Qobliyah Dzuhur</item>
+        <item>Sholat Dzuhur </item>
+        <item>Sholat Bakdiyyah Dzuhur</item>
+        <item>Dzikir Setelah Sholat</item>
+        <item>Sholat Ashar</item>
+        <item>Dzikir Sore</item>
+        <item>Sholat Maghrib</item>
+        <item>sholat Bakdiyyah Maghrib</item>
+        <item>Qiroah Quran</item>
+        <item>Sholat Isya</item>
+        <item>Sholat Bakdiyyah Isya</item>
+        <item>Membaca Buku</item>
+        <item>Wudhu Sebelum Tidur</item>
+        <item>Berdoa Sebelum Tidur</item>
+    </string-array>
+</resources>
